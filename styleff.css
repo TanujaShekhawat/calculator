@@ -1,0 +1,58 @@
+body{
+    padding: 1px;
+    margin: 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    padding: 1px;
+    background-color: rgb(155, 188, 217);
+}
+
+
+
+.title {
+    font-size: 4rem;
+    text-align: center;
+    background-color: pink;
+}
+
+
+.heading {
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 2.5rem;
+    background-color: yellowgreen;
+}
+
+
+.Freedom-box {
+    display: grid;
+    
+    gap: 5rem;
+}
+
+
+
+.img {
+    width: 180px;
+    
+}
+
+.img img {
+    width: 100%;
+    margin: 10px;
+    border: solid black;
+}
+
+.Bhagat-Singh p,
+.subhasJi p,
+.Mahatma-Gandhi p,
+.Sardar-Vallabhbhai-Patel p {
+    margin: 3rem 0;
+    color: crimson;
+    word-spacing: normal;
+    padding: 5px;
+    text-align: justify;
+}
